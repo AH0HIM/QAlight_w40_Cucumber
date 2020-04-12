@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ceeccd9-f07b-4494-81dc-84974359c938" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aO0nlxVvDTAtsSPGcBr0k1Bl6i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\CyruS\Desktop\Cucumber\src\test\java\stepDefinitions" />
+      <recent name="D:\Users\CyruS\Desktop\Cucumber\src\test\java\feature" />
+      <recent name="D:\Users\CyruS\Desktop\Cucumber\src" />
+      <recent name="D:\Users\CyruS\Desktop\Cucumber\src\test\drivers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunCukeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepDefinitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="stepDefinitions.RunCukeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCukeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ceeccd9-f07b-4494-81dc-84974359c938" name="Default Changelist" comment="" />
+      <created>1586591501304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586591501304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="297" key="#Project_Structure" timestamp="1586591533661">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="437" y="297" key="#Project_Structure/0.0.1680.1020@0.0.1680.1020" timestamp="1586591533661" />
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586596460623">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1586596460623" />
+    <state x="0" y="624" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586595129291">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="0" y="624" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1020@0.0.1680.1020" timestamp="1586595129291" />
+    <state x="614" y="200" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1586597065582">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="614" y="200" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1586597065582" />
+    <state x="300" y="347" key="FileChooserDialogImpl" timestamp="1586591805905">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="300" y="347" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1586591805905" />
+    <state width="1635" height="264" key="GridCell.Tab.0.bottom" timestamp="1586691774239">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1635" height="264" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1586691774239" />
+    <state width="1635" height="264" key="GridCell.Tab.0.center" timestamp="1586691774239">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1635" height="264" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1586691774239" />
+    <state width="1635" height="264" key="GridCell.Tab.0.left" timestamp="1586691774239">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1635" height="264" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1586691774239" />
+    <state width="1635" height="264" key="GridCell.Tab.0.right" timestamp="1586691774239">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1635" height="264" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1586691774239" />
+    <state x="0" y="328" key="Maven.ArtifactSearchDialog" timestamp="1586596558701">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="0" y="328" key="Maven.ArtifactSearchDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1586596558701" />
+    <state x="105" y="50" key="SettingsEditor" timestamp="1586690758548">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="105" y="50" key="SettingsEditor/0.0.1680.1020@0.0.1680.1020" timestamp="1586690758548" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586678768623">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1586678768623" />
+    <state x="998" y="224" width="672" height="678" key="search.everywhere.popup" timestamp="1586593923227">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="998" y="224" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1586593923227" />
+  </component>
+</project>

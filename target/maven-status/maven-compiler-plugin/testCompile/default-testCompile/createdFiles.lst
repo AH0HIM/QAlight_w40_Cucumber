@@ -1,0 +1,4 @@
+stepDefinitions\Hooks.class
+Selenium\SeleniumFunctions.class
+stepDefinitions\GithubLoginSD.class
+stepDefinitions\RunCukeTest.class
